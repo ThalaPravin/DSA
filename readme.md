@@ -1,18 +1,20 @@
 # Data Structures and Algorithms in C++
 
-A collection of Data Structures and Algorithms implementations using C++.
+A collection of Data Structures and Algorithms implemented in C++.
 
-## Table of Contents
+## Topics Covered
 
-- [Introduction](#introduction)
-- [Directory Structure](#directory-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+- Arrays
+- Linked Lists
+- Sorting
+- Searching
+- Trees
+- Graphs
 
-## Introduction
+## How to Use
 
-This repository contains various Data Structures and Algorithms implemented in C++. The goal is to provide a resource for learning and practicing common DSA concepts.
+1. **Clone the Repository:**
 
-## Directory Structure
-
+   ```bash
+   git clone https://github.com/ThalaPravin/DSA.git
+   cd DSA
